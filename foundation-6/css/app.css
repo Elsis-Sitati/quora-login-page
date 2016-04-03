@@ -3,3 +3,17 @@ div#row1 {
     background-image: url(../img/quora%20.png);
     background-size: cover;
 }
+div#text {
+    text-align: center;
+    height: 21%;
+}
+h1 {
+    padding-top: 4%;
+    color: #B92B27;
+    font-family: 'Lobster', cursive;
+}
+p {
+    font-family: 'Lora', serif;
+    font-size: 19px;
+    color: #66749F;
+}
