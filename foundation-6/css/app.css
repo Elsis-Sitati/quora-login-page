@@ -22,4 +22,36 @@ div#row2 {
     margin-top: -37%;
     margin-left: 20%;
     margin-right: 20%;
+    padding-top: 3%;
+    background-color: white;
+    padding-left: 1%;
 }
+a#google {
+    background-color: #DF4930;
+    height: 54px;
+    padding-top: 18px;
+    width: 76%;
+}
+a#facebook{
+    height: 54px;
+    padding-top: 18px;
+    width: 76%;
+}
+p#p2 {
+    font-size: 15px;
+}
+i.fa.fa-google {
+    font-size: 25px;
+    background-color: white;
+    color: #DF4930;
+    margin-left: -15%;
+    padding: 2%;
+}
+i.fa.fa-facebook {
+    font-size: 25px;
+    background-color: white;
+    color: #507CC0;
+    margin-left: -15%;
+   padding: 2%;
+}
+
