@@ -32,7 +32,7 @@ a#google {
     padding-top: 18px;
     width: 76%;
 }
-a#facebook{
+a#facebook {
     height: 54px;
     padding-top: 18px;
     width: 76%;
@@ -52,6 +52,14 @@ i.fa.fa-facebook {
     background-color: white;
     color: #507CC0;
     margin-left: -15%;
-   padding: 2%;
+    padding: 2%;
 }
-
+div#right {
+    border-left: solid 1px #ECECEC;
+    color: grey;
+    font-size: 15px;
+    padding-left: 5%;
+}
+a#login {
+    margin-left: 107%;
+}
