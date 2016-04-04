@@ -17,3 +17,9 @@ p {
     font-size: 19px;
     color: #66749F;
 }
+div#row2 {
+    height: 45%;
+    margin-top: -37%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
