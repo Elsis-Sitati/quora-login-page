@@ -40,20 +40,6 @@ a#facebook {
 p#p2 {
     font-size: 15px;
 }
-i.fa.fa-google {
-    font-size: 25px;
-    background-color: white;
-    color: #DF4930;
-    margin-left: -15%;
-    padding: 2%;
-}
-i.fa.fa-facebook {
-    font-size: 25px;
-    background-color: white;
-    color: #507CC0;
-    margin-left: -15%;
-    padding: 2%;
-}
 div#right {
     border-left: solid 1px #ECECEC;
     color: grey;
@@ -62,4 +48,17 @@ div#right {
 }
 a#login {
     margin-left: 107%;
+}
+i.fa.fa-google {
+    font-size: 22px;
+    padding-right: 19px;
+}
+i.fa.fa-facebook-official {
+    font-size: 20px;
+    padding-right: 12px;
+}
+a#login {
+    margin-left: 29%;
+    margin-top: 5%;
+    width: 48%;
 }
